@@ -1,6 +1,5 @@
 [build]
-  command = ""
-  publish = "."
+  publish = ""
 
 # Redirect rules for clean URLs and SEO
 [[redirects]]
