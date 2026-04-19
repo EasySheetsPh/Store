@@ -1,0 +1,8 @@
+{
+  "name": "easysheets-store",
+  "version": "1.0.0",
+  "description": "Static store for Easy Sheets",
+  "scripts": {
+    "build": "echo 'Skipping build... copying files'"
+  }
+}
