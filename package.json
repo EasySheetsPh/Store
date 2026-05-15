@@ -1,0 +1,9 @@
+{
+  "name": "easysheets-store",
+  "version": "1.0.0",
+  "description": "Static store for Easy Sheets",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for static assets'"
+  }
+}
